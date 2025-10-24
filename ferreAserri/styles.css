@@ -172,44 +172,6 @@ header nav a:hover {
     line-height: 1.6;
 }
 
-/* ======== CONTACTO ======== */
-.contacto {
-    background: #ffffff;
-    padding: 60px 20px;
-    text-align: center;
-}
-
-.contacto form {
-    max-width: 500px;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-
-.contacto input,
-.contacto textarea {
-    padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    font-size: 1rem;
-}
-
-.contacto button {
-    background: #10b981;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    padding: 12px;
-    font-weight: bold;
-    cursor: pointer;
-    transition: 0.3s;
-}
-
-.contacto button:hover {
-    background: #059669;
-}
-
 /* ======== FOOTER ======== */
 footer {
     background: #1f2937;
@@ -244,3 +206,4 @@ footer {
     pointer-events: auto;
     transform: scale(1.1);
 }
+
